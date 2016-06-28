@@ -701,6 +701,21 @@ var places = [
 			"Provision": "Coffee, tea, cake, fast foods",
 		},
 		"link": {"homepage":"http://www.cafecoffeeday.com/"}
+	},
+	{
+		"city": "Bengaluru",
+		"country": "India",
+		"name": "Cuppa",
+		"address": "355, 14 th B Cross 5th Main 6th Sector HSR Bangalore",
+		"coordinates": "",
+		"description": {
+			"Internet": "free WiFi",
+			"Power Outlets": "Most tables have outlets nearby",
+			"Seating": "nice chairs,sofa's and tables indoors and outdoors,nice view ",
+			"Service": "nice and friendly",
+			"Provision": "Coffee,doughnuts, tea, cake, fast foods",
+		},
+		"link": {"homepage":"http://places.wonobo.com/bangalore/cuppa-coffee-shop/2114078"}
 	}
 	
 ]
