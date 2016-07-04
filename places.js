@@ -730,7 +730,7 @@ var places = [
 			"Service": "nice and friendly",
 			"Provision": "Coffee and doughnuts(many variations)",
 		},
-		"link": {"homepage":"http://places.wonobo.com/bangalore/cuppa-coffee-shop/2114078"}
+		"link": {"homepage":"http://www.krispykremeindia.in/"}
 	}
 	
 ]
