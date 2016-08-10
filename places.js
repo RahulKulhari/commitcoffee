@@ -716,6 +716,21 @@ var places = [
 			"Provision": "Coffee,doughnuts, tea, cake, fast foods",
 		},
 		"link": {"homepage":"http://places.wonobo.com/bangalore/cuppa-coffee-shop/2114078"}
+	},
+	{
+		"city": "Bengaluru",
+		"country": "India",
+		"name": "Krispy Kreme",
+		"address": "28, Sector 4, HSR Layout, Bengaluru, Karnataka 560102",
+		"coordinates": "",
+		"description": {
+			"Internet": "no WiFi",
+			"Power Outlets": "some tables have outlets nearby",
+			"Seating": "nice chairs,sofa's and tables indoors and outdoors ",
+			"Service": "nice and friendly",
+			"Provision": "Coffee and doughnuts(many variations)",
+		},
+		"link": {"homepage":"http://www.krispykremeindia.in/"}
 	}
 	
 ]
